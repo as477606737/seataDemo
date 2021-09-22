@@ -1,0 +1,20 @@
+
+Q
+java:S3740\"/Provide the parametrized type for this generic.(ê¸îœùÿÿÿÿ8ë™òµ/
+J
+java:S1612œ",Replace this lambda with a method reference.(½¢Ãû8µ£ôµ/
+C
+java:S1481:"&Remove this unused "a" local variable.(ŠÒ‡ı8ë™òµ/
+L
+java:S3740P"/Provide the parametrized type for this generic.(Ï„Ø¼8ë™òµ/
+h
+java:S2184i"FCast one of the operands of this multiplication operation to a "long".(´Î”Úşÿÿÿÿ8ë™òµ/
+w
+java:S2293™"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ×©’8³°õµ/
+R
+java:S1854:"5Remove this useless assignment to local variable "a".(ŠÒ‡ı8ë™òµ/
+`
+java:S3518:"CMake sure this expression can't be zero before doing this division.(ŠÒ‡ı8ë™òµ/
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(ùñ£8ë™òµ/
+J
+java:S1602œ",Remove useless curly braces around statement(½¢Ãû8µ£ôµ/

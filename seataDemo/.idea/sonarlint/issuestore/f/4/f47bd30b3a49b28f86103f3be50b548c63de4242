@@ -1,0 +1,13 @@
+
+|
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "o".(ÑÂ¥«øÿÿÿÿ8²¹‰ş¥/
+I
+java:S1168ª"+Return an empty collection instead of null.(¥¹ï8²¹‰ş¥/
+
+java:S1488¯"^Immediately return this expression instead of assigning it to the temporary variable "remove".(²ĞÉàıÿÿÿÿ8²¹‰ş¥/
+I
+java:S1168‹"+Return an empty collection instead of null.(¥¹ï8²¹‰ş¥/
+c	java:S112“"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ½”8²¹‰ş¥/
+b	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(ÄÊĞ88²¹‰ş¥/
+{
+java:S1488ö"]Immediately return this expression instead of assigning it to the temporary variable "count".(ıÿî¢8²¹‰ş¥/
